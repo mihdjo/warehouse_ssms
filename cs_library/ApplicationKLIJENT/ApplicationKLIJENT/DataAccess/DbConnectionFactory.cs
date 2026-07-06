@@ -28,7 +28,7 @@ namespace ApplicationKLIJENT.DataAccess
                 @"Pooling=False;";
 
             _applicationRoleName = "DataProviderKLIJENT";
-            _applicationRolePassword = "Klijent#2026!StrongPass";
+            _applicationRolePassword = "SifraZaKlijenta#2026";
         }
 
         /*

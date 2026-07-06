@@ -3,7 +3,11 @@
   "WorkspaceRootPath": "C:\\Users\\Mihajlo\\Desktop\\FON\\projects\\warehouse_ssms\\cs_library\\ApplicationKLIJENT\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0AFD8DF0-3F62-4F80-A3E2-54EB60CCB4BA}|ApplicationKLIJENT\\ApplicationKLIJENT.csproj|C:\\Users\\Mihajlo\\Desktop\\FON\\projects\\warehouse_ssms\\cs_library\\ApplicationKLIJENT\\applicationklijent\\domain\\istorijastatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0AFD8DF0-3F62-4F80-A3E2-54EB60CCB4BA}|ApplicationKLIJENT\\ApplicationKLIJENT.csproj|C:\\Users\\Mihajlo\\Desktop\\FON\\projects\\warehouse_ssms\\cs_library\\ApplicationKLIJENT\\applicationklijent\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AFD8DF0-3F62-4F80-A3E2-54EB60CCB4BA}|ApplicationKLIJENT\\ApplicationKLIJENT.csproj|solutionrelative:applicationklijent\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AFD8DF0-3F62-4F80-A3E2-54EB60CCB4BA}|ApplicationKLIJENT\\ApplicationKLIJENT.csproj|c:\\users\\mihajlo\\desktop\\fon\\projects\\warehouse_ssms\\cs_library\\applicationklijent\\applicationklijent\\domain\\istorijastatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0AFD8DF0-3F62-4F80-A3E2-54EB60CCB4BA}|ApplicationKLIJENT\\ApplicationKLIJENT.csproj|solutionrelative:applicationklijent\\domain\\istorijastatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -13,10 +17,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{0AFD8DF0-3F62-4F80-A3E2-54EB60CCB4BA}|ApplicationKLIJENT\\ApplicationKLIJENT.csproj|C:\\Users\\Mihajlo\\Desktop\\FON\\projects\\warehouse_ssms\\cs_library\\ApplicationKLIJENT\\applicationklijent\\domain\\isporukastatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0AFD8DF0-3F62-4F80-A3E2-54EB60CCB4BA}|ApplicationKLIJENT\\ApplicationKLIJENT.csproj|solutionrelative:applicationklijent\\domain\\isporukastatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0AFD8DF0-3F62-4F80-A3E2-54EB60CCB4BA}|ApplicationKLIJENT\\ApplicationKLIJENT.csproj|c:\\users\\mihajlo\\desktop\\fon\\projects\\warehouse_ssms\\cs_library\\applicationklijent\\applicationklijent\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0AFD8DF0-3F62-4F80-A3E2-54EB60CCB4BA}|ApplicationKLIJENT\\ApplicationKLIJENT.csproj|solutionrelative:applicationklijent\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0AFD8DF0-3F62-4F80-A3E2-54EB60CCB4BA}|ApplicationKLIJENT\\ApplicationKLIJENT.csproj|C:\\Users\\Mihajlo\\Desktop\\FON\\projects\\warehouse_ssms\\cs_library\\ApplicationKLIJENT\\applicationklijent\\services\\klijentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -30,11 +30,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "IstorijaStatus.cs",
               "DocumentMoniker": "C:\\Users\\Mihajlo\\Desktop\\FON\\projects\\warehouse_ssms\\cs_library\\ApplicationKLIJENT\\ApplicationKLIJENT\\Domain\\IstorijaStatus.cs",
               "RelativeDocumentMoniker": "ApplicationKLIJENT\\Domain\\IstorijaStatus.cs",
@@ -55,12 +55,11 @@
               "RelativeToolTip": "ApplicationKLIJENT\\Services\\KlijentService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-02T17:41:32.733Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-02T17:41:32.733Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "StatusPregled.cs",
               "DocumentMoniker": "C:\\Users\\Mihajlo\\Desktop\\FON\\projects\\warehouse_ssms\\cs_library\\ApplicationKLIJENT\\ApplicationKLIJENT\\Domain\\StatusPregled.cs",
               "RelativeDocumentMoniker": "ApplicationKLIJENT\\Domain\\StatusPregled.cs",
@@ -68,12 +67,11 @@
               "RelativeToolTip": "ApplicationKLIJENT\\Domain\\StatusPregled.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-02T17:41:12.217Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-02T17:41:12.217Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "IsporukaStatus.cs",
               "DocumentMoniker": "C:\\Users\\Mihajlo\\Desktop\\FON\\projects\\warehouse_ssms\\cs_library\\ApplicationKLIJENT\\ApplicationKLIJENT\\Domain\\IsporukaStatus.cs",
               "RelativeDocumentMoniker": "ApplicationKLIJENT\\Domain\\IsporukaStatus.cs",
@@ -81,18 +79,17 @@
               "RelativeToolTip": "ApplicationKLIJENT\\Domain\\IsporukaStatus.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-02T17:41:07.198Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-02T17:41:07.198Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Mihajlo\\Desktop\\FON\\projects\\warehouse_ssms\\cs_library\\ApplicationKLIJENT\\ApplicationKLIJENT\\Program.cs",
               "RelativeDocumentMoniker": "ApplicationKLIJENT\\Program.cs",
               "ToolTip": "C:\\Users\\Mihajlo\\Desktop\\FON\\projects\\warehouse_ssms\\cs_library\\ApplicationKLIJENT\\ApplicationKLIJENT\\Program.cs",
               "RelativeToolTip": "ApplicationKLIJENT\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAApAAAAAAAAAA==",
+              "ViewState": "AgIAAGIBAAAAAAAAAAAAABEAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-07-02T17:40:07.829Z",
               "EditorCaption": ""

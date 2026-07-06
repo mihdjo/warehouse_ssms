@@ -27,7 +27,7 @@ namespace ApplicationLOGISTIKA.DataAccess
                 @"Pooling=False;";
 
             _applicationRoleName = "DataProviderLOGISTIKA";
-            _applicationRolePassword = "Logistika#2026!StrongPass";
+            _applicationRolePassword = "SifraZaLogistiku#2026";
         }
 
         /*
