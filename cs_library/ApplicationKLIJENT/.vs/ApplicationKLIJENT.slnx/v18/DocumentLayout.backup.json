@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Mihajlo\\Desktop\\FON\\projects\\warehouse_ssms\\cs_library\\ApplicationKLIJENT\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0AFD8DF0-3F62-4F80-A3E2-54EB60CCB4BA}|ApplicationKLIJENT\\ApplicationKLIJENT.csproj|C:\\Users\\Mihajlo\\Desktop\\FON\\projects\\warehouse_ssms\\cs_library\\ApplicationKLIJENT\\applicationklijent\\domain\\istorijastatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AFD8DF0-3F62-4F80-A3E2-54EB60CCB4BA}|ApplicationKLIJENT\\ApplicationKLIJENT.csproj|solutionrelative:applicationklijent\\domain\\istorijastatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AFD8DF0-3F62-4F80-A3E2-54EB60CCB4BA}|ApplicationKLIJENT\\ApplicationKLIJENT.csproj|C:\\Users\\Mihajlo\\Desktop\\FON\\projects\\warehouse_ssms\\cs_library\\ApplicationKLIJENT\\applicationklijent\\domain\\statuspregled.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AFD8DF0-3F62-4F80-A3E2-54EB60CCB4BA}|ApplicationKLIJENT\\ApplicationKLIJENT.csproj|solutionrelative:applicationklijent\\domain\\statuspregled.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AFD8DF0-3F62-4F80-A3E2-54EB60CCB4BA}|ApplicationKLIJENT\\ApplicationKLIJENT.csproj|C:\\Users\\Mihajlo\\Desktop\\FON\\projects\\warehouse_ssms\\cs_library\\ApplicationKLIJENT\\applicationklijent\\domain\\isporukastatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AFD8DF0-3F62-4F80-A3E2-54EB60CCB4BA}|ApplicationKLIJENT\\ApplicationKLIJENT.csproj|solutionrelative:applicationklijent\\domain\\isporukastatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AFD8DF0-3F62-4F80-A3E2-54EB60CCB4BA}|ApplicationKLIJENT\\ApplicationKLIJENT.csproj|c:\\users\\mihajlo\\desktop\\fon\\projects\\warehouse_ssms\\cs_library\\applicationklijent\\applicationklijent\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AFD8DF0-3F62-4F80-A3E2-54EB60CCB4BA}|ApplicationKLIJENT\\ApplicationKLIJENT.csproj|solutionrelative:applicationklijent\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AFD8DF0-3F62-4F80-A3E2-54EB60CCB4BA}|ApplicationKLIJENT\\ApplicationKLIJENT.csproj|C:\\Users\\Mihajlo\\Desktop\\FON\\projects\\warehouse_ssms\\cs_library\\ApplicationKLIJENT\\applicationklijent\\services\\klijentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AFD8DF0-3F62-4F80-A3E2-54EB60CCB4BA}|ApplicationKLIJENT\\ApplicationKLIJENT.csproj|solutionrelative:applicationklijent\\services\\klijentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IstorijaStatus.cs",
+              "DocumentMoniker": "C:\\Users\\Mihajlo\\Desktop\\FON\\projects\\warehouse_ssms\\cs_library\\ApplicationKLIJENT\\ApplicationKLIJENT\\Domain\\IstorijaStatus.cs",
+              "RelativeDocumentMoniker": "ApplicationKLIJENT\\Domain\\IstorijaStatus.cs",
+              "ToolTip": "C:\\Users\\Mihajlo\\Desktop\\FON\\projects\\warehouse_ssms\\cs_library\\ApplicationKLIJENT\\ApplicationKLIJENT\\Domain\\IstorijaStatus.cs",
+              "RelativeToolTip": "ApplicationKLIJENT\\Domain\\IstorijaStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-02T20:55:41.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "KlijentService.cs",
+              "DocumentMoniker": "C:\\Users\\Mihajlo\\Desktop\\FON\\projects\\warehouse_ssms\\cs_library\\ApplicationKLIJENT\\ApplicationKLIJENT\\Services\\KlijentService.cs",
+              "RelativeDocumentMoniker": "ApplicationKLIJENT\\Services\\KlijentService.cs",
+              "ToolTip": "C:\\Users\\Mihajlo\\Desktop\\FON\\projects\\warehouse_ssms\\cs_library\\ApplicationKLIJENT\\ApplicationKLIJENT\\Services\\KlijentService.cs",
+              "RelativeToolTip": "ApplicationKLIJENT\\Services\\KlijentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-02T17:41:32.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StatusPregled.cs",
+              "DocumentMoniker": "C:\\Users\\Mihajlo\\Desktop\\FON\\projects\\warehouse_ssms\\cs_library\\ApplicationKLIJENT\\ApplicationKLIJENT\\Domain\\StatusPregled.cs",
+              "RelativeDocumentMoniker": "ApplicationKLIJENT\\Domain\\StatusPregled.cs",
+              "ToolTip": "C:\\Users\\Mihajlo\\Desktop\\FON\\projects\\warehouse_ssms\\cs_library\\ApplicationKLIJENT\\ApplicationKLIJENT\\Domain\\StatusPregled.cs",
+              "RelativeToolTip": "ApplicationKLIJENT\\Domain\\StatusPregled.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-02T17:41:12.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IsporukaStatus.cs",
+              "DocumentMoniker": "C:\\Users\\Mihajlo\\Desktop\\FON\\projects\\warehouse_ssms\\cs_library\\ApplicationKLIJENT\\ApplicationKLIJENT\\Domain\\IsporukaStatus.cs",
+              "RelativeDocumentMoniker": "ApplicationKLIJENT\\Domain\\IsporukaStatus.cs",
+              "ToolTip": "C:\\Users\\Mihajlo\\Desktop\\FON\\projects\\warehouse_ssms\\cs_library\\ApplicationKLIJENT\\ApplicationKLIJENT\\Domain\\IsporukaStatus.cs",
+              "RelativeToolTip": "ApplicationKLIJENT\\Domain\\IsporukaStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-02T17:41:07.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Mihajlo\\Desktop\\FON\\projects\\warehouse_ssms\\cs_library\\ApplicationKLIJENT\\ApplicationKLIJENT\\Program.cs",
+              "RelativeDocumentMoniker": "ApplicationKLIJENT\\Program.cs",
+              "ToolTip": "C:\\Users\\Mihajlo\\Desktop\\FON\\projects\\warehouse_ssms\\cs_library\\ApplicationKLIJENT\\ApplicationKLIJENT\\Program.cs",
+              "RelativeToolTip": "ApplicationKLIJENT\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-02T17:40:07.829Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

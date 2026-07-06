@@ -1,0 +1,7 @@
+C:\Users\Mihajlo\Desktop\FON\projects\warehouse_ssms\cs_library\ApplicationKLIJENT\ApplicationKLIJENT\bin\Debug\ApplicationKLIJENT.exe.config
+C:\Users\Mihajlo\Desktop\FON\projects\warehouse_ssms\cs_library\ApplicationKLIJENT\ApplicationKLIJENT\bin\Debug\ApplicationKLIJENT.exe
+C:\Users\Mihajlo\Desktop\FON\projects\warehouse_ssms\cs_library\ApplicationKLIJENT\ApplicationKLIJENT\bin\Debug\ApplicationKLIJENT.pdb
+C:\Users\Mihajlo\Desktop\FON\projects\warehouse_ssms\cs_library\ApplicationKLIJENT\ApplicationKLIJENT\obj\Debug\ApplicationKLIJENT.csproj.AssemblyReference.cache
+C:\Users\Mihajlo\Desktop\FON\projects\warehouse_ssms\cs_library\ApplicationKLIJENT\ApplicationKLIJENT\obj\Debug\ApplicationKLIJENT.csproj.CoreCompileInputs.cache
+C:\Users\Mihajlo\Desktop\FON\projects\warehouse_ssms\cs_library\ApplicationKLIJENT\ApplicationKLIJENT\obj\Debug\ApplicationKLIJENT.exe
+C:\Users\Mihajlo\Desktop\FON\projects\warehouse_ssms\cs_library\ApplicationKLIJENT\ApplicationKLIJENT\obj\Debug\ApplicationKLIJENT.pdb

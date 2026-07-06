@@ -1,0 +1,7 @@
+C:\Users\Mihajlo\Desktop\FON\projects\warehouse_ssms\cs_library\ApplicationLOGISTIKA\ApplicationLOGISTIKA\bin\Debug\ApplicationLOGISTIKA.exe.config
+C:\Users\Mihajlo\Desktop\FON\projects\warehouse_ssms\cs_library\ApplicationLOGISTIKA\ApplicationLOGISTIKA\bin\Debug\ApplicationLOGISTIKA.exe
+C:\Users\Mihajlo\Desktop\FON\projects\warehouse_ssms\cs_library\ApplicationLOGISTIKA\ApplicationLOGISTIKA\bin\Debug\ApplicationLOGISTIKA.pdb
+C:\Users\Mihajlo\Desktop\FON\projects\warehouse_ssms\cs_library\ApplicationLOGISTIKA\ApplicationLOGISTIKA\obj\Debug\ApplicationLOGISTIKA.csproj.AssemblyReference.cache
+C:\Users\Mihajlo\Desktop\FON\projects\warehouse_ssms\cs_library\ApplicationLOGISTIKA\ApplicationLOGISTIKA\obj\Debug\ApplicationLOGISTIKA.csproj.CoreCompileInputs.cache
+C:\Users\Mihajlo\Desktop\FON\projects\warehouse_ssms\cs_library\ApplicationLOGISTIKA\ApplicationLOGISTIKA\obj\Debug\ApplicationLOGISTIKA.exe
+C:\Users\Mihajlo\Desktop\FON\projects\warehouse_ssms\cs_library\ApplicationLOGISTIKA\ApplicationLOGISTIKA\obj\Debug\ApplicationLOGISTIKA.pdb

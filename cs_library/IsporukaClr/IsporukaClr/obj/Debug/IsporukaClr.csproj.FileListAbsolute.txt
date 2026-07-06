@@ -1,0 +1,6 @@
+C:\Users\Mihajlo\Desktop\FON\projects\warehouse_ssms\cs_library\IsporukaClr\IsporukaClr\bin\Debug\IsporukaClr.dll
+C:\Users\Mihajlo\Desktop\FON\projects\warehouse_ssms\cs_library\IsporukaClr\IsporukaClr\bin\Debug\IsporukaClr.pdb
+C:\Users\Mihajlo\Desktop\FON\projects\warehouse_ssms\cs_library\IsporukaClr\IsporukaClr\obj\Debug\IsporukaClr.csproj.AssemblyReference.cache
+C:\Users\Mihajlo\Desktop\FON\projects\warehouse_ssms\cs_library\IsporukaClr\IsporukaClr\obj\Debug\IsporukaClr.csproj.CoreCompileInputs.cache
+C:\Users\Mihajlo\Desktop\FON\projects\warehouse_ssms\cs_library\IsporukaClr\IsporukaClr\obj\Debug\IsporukaClr.dll
+C:\Users\Mihajlo\Desktop\FON\projects\warehouse_ssms\cs_library\IsporukaClr\IsporukaClr\obj\Debug\IsporukaClr.pdb

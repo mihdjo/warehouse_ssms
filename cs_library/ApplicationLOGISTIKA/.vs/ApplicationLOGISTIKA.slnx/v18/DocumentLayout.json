@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Mihajlo\\Desktop\\FON\\projects\\warehouse_ssms\\cs_library\\ApplicationLOGISTIKA\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F48AF546-023B-47A6-ADFB-09C8DBD0D832}|ApplicationLOGISTIKA\\ApplicationLOGISTIKA.csproj|c:\\users\\mihajlo\\desktop\\fon\\projects\\warehouse_ssms\\cs_library\\applicationlogistika\\applicationlogistika\\dataaccess\\dbconnectionfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F48AF546-023B-47A6-ADFB-09C8DBD0D832}|ApplicationLOGISTIKA\\ApplicationLOGISTIKA.csproj|solutionrelative:applicationlogistika\\dataaccess\\dbconnectionfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F48AF546-023B-47A6-ADFB-09C8DBD0D832}|ApplicationLOGISTIKA\\ApplicationLOGISTIKA.csproj|C:\\Users\\Mihajlo\\Desktop\\FON\\projects\\warehouse_ssms\\cs_library\\ApplicationLOGISTIKA\\applicationlogistika\\domain\\proizvod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F48AF546-023B-47A6-ADFB-09C8DBD0D832}|ApplicationLOGISTIKA\\ApplicationLOGISTIKA.csproj|solutionrelative:applicationlogistika\\domain\\proizvod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F48AF546-023B-47A6-ADFB-09C8DBD0D832}|ApplicationLOGISTIKA\\ApplicationLOGISTIKA.csproj|C:\\Users\\Mihajlo\\Desktop\\FON\\projects\\warehouse_ssms\\cs_library\\ApplicationLOGISTIKA\\applicationlogistika\\domain\\posiljalac.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F48AF546-023B-47A6-ADFB-09C8DBD0D832}|ApplicationLOGISTIKA\\ApplicationLOGISTIKA.csproj|solutionrelative:applicationlogistika\\domain\\posiljalac.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F48AF546-023B-47A6-ADFB-09C8DBD0D832}|ApplicationLOGISTIKA\\ApplicationLOGISTIKA.csproj|C:\\Users\\Mihajlo\\Desktop\\FON\\projects\\warehouse_ssms\\cs_library\\ApplicationLOGISTIKA\\applicationlogistika\\domain\\isporukadetaljno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F48AF546-023B-47A6-ADFB-09C8DBD0D832}|ApplicationLOGISTIKA\\ApplicationLOGISTIKA.csproj|solutionrelative:applicationlogistika\\domain\\isporukadetaljno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F48AF546-023B-47A6-ADFB-09C8DBD0D832}|ApplicationLOGISTIKA\\ApplicationLOGISTIKA.csproj|c:\\users\\mihajlo\\desktop\\fon\\projects\\warehouse_ssms\\cs_library\\applicationlogistika\\applicationlogistika\\domain\\isporukakasnjenje.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F48AF546-023B-47A6-ADFB-09C8DBD0D832}|ApplicationLOGISTIKA\\ApplicationLOGISTIKA.csproj|solutionrelative:applicationlogistika\\domain\\isporukakasnjenje.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DbConnectionFactory.cs",
+              "DocumentMoniker": "C:\\Users\\Mihajlo\\Desktop\\FON\\projects\\warehouse_ssms\\cs_library\\ApplicationLOGISTIKA\\ApplicationLOGISTIKA\\DataAccess\\DbConnectionFactory.cs",
+              "RelativeDocumentMoniker": "ApplicationLOGISTIKA\\DataAccess\\DbConnectionFactory.cs",
+              "ToolTip": "C:\\Users\\Mihajlo\\Desktop\\FON\\projects\\warehouse_ssms\\cs_library\\ApplicationLOGISTIKA\\ApplicationLOGISTIKA\\DataAccess\\DbConnectionFactory.cs",
+              "RelativeToolTip": "ApplicationLOGISTIKA\\DataAccess\\DbConnectionFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-06T11:32:48.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IsporukaKasnjenje.cs",
+              "DocumentMoniker": "C:\\Users\\Mihajlo\\Desktop\\FON\\projects\\warehouse_ssms\\cs_library\\ApplicationLOGISTIKA\\ApplicationLOGISTIKA\\Domain\\IsporukaKasnjenje.cs",
+              "RelativeDocumentMoniker": "ApplicationLOGISTIKA\\Domain\\IsporukaKasnjenje.cs",
+              "ToolTip": "C:\\Users\\Mihajlo\\Desktop\\FON\\projects\\warehouse_ssms\\cs_library\\ApplicationLOGISTIKA\\ApplicationLOGISTIKA\\Domain\\IsporukaKasnjenje.cs",
+              "RelativeToolTip": "ApplicationLOGISTIKA\\Domain\\IsporukaKasnjenje.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-02T17:20:33.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IsporukaDetaljno.cs",
+              "DocumentMoniker": "C:\\Users\\Mihajlo\\Desktop\\FON\\projects\\warehouse_ssms\\cs_library\\ApplicationLOGISTIKA\\ApplicationLOGISTIKA\\Domain\\IsporukaDetaljno.cs",
+              "RelativeDocumentMoniker": "ApplicationLOGISTIKA\\Domain\\IsporukaDetaljno.cs",
+              "ToolTip": "C:\\Users\\Mihajlo\\Desktop\\FON\\projects\\warehouse_ssms\\cs_library\\ApplicationLOGISTIKA\\ApplicationLOGISTIKA\\Domain\\IsporukaDetaljno.cs",
+              "RelativeToolTip": "ApplicationLOGISTIKA\\Domain\\IsporukaDetaljno.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-02T17:20:18.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Posiljalac.cs",
+              "DocumentMoniker": "C:\\Users\\Mihajlo\\Desktop\\FON\\projects\\warehouse_ssms\\cs_library\\ApplicationLOGISTIKA\\ApplicationLOGISTIKA\\Domain\\Posiljalac.cs",
+              "RelativeDocumentMoniker": "ApplicationLOGISTIKA\\Domain\\Posiljalac.cs",
+              "ToolTip": "C:\\Users\\Mihajlo\\Desktop\\FON\\projects\\warehouse_ssms\\cs_library\\ApplicationLOGISTIKA\\ApplicationLOGISTIKA\\Domain\\Posiljalac.cs",
+              "RelativeToolTip": "ApplicationLOGISTIKA\\Domain\\Posiljalac.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-02T17:19:51.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Proizvod.cs",
+              "DocumentMoniker": "C:\\Users\\Mihajlo\\Desktop\\FON\\projects\\warehouse_ssms\\cs_library\\ApplicationLOGISTIKA\\ApplicationLOGISTIKA\\Domain\\Proizvod.cs",
+              "RelativeDocumentMoniker": "ApplicationLOGISTIKA\\Domain\\Proizvod.cs",
+              "ToolTip": "C:\\Users\\Mihajlo\\Desktop\\FON\\projects\\warehouse_ssms\\cs_library\\ApplicationLOGISTIKA\\ApplicationLOGISTIKA\\Domain\\Proizvod.cs",
+              "RelativeToolTip": "ApplicationLOGISTIKA\\Domain\\Proizvod.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-02T17:19:37.292Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
